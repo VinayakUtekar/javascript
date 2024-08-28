@@ -35,7 +35,7 @@ console.log(e1.eId);
 var e2 = new Employee("Virat", 18);
 console.log(e2);
 console.log(e2.eName);
-console.log(e3.eId);
+console.log(e2.eId);
 
 var e3 = new Employee("Jaspreet", 93);
 console.log(e3);
